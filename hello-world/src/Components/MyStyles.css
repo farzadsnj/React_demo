@@ -1,0 +1,16 @@
+.primary {
+  color: orange;
+}
+
+.font-xl {
+  font-size: 72px;
+}
+.font {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center {
+  text-align: center;
+  justify-content: center;
+  align-items: flex-start;
+}
